@@ -47,7 +47,7 @@ I'm a CS student from Pakistan building AI systems that work in the real world �
 
 ### 📬 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maaz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maaz-ahmed-13a26934b/)
+[![GitHub](https://img.shields.io/badge/GitHub-maazxo1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maazxo1)
 [![Email](https://img.shields.io/badge/Gmail-maazmalikmm7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazmalikmm7@gmail.com)
 
 ---
@@ -59,9 +59,9 @@ I trained an EfficientNet model to recognize 101 foods with 90% accuracy — it 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maazxo1&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazxo1&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maazxo1&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazxo1&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="150"/>
 </p>
 
 <p align="center">
