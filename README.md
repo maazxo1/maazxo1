@@ -34,11 +34,11 @@ Results-driven **Software Engineer** with 3+ years of experience building cross-
 
 | | |
 |---|---|
-| 📍 Location | Islamabad, Pakistan |
-| 💼 Role | Software Engineer @ **Exaverse** |
-| 🎓 Education | BSc Computer Science @ **NUML** *(Expected June 2028)* |
-| 🔭 Stack | Flutter · ASP.NET Core · Firebase · Python · LLMs |
-| 📬 Contact | maazmalikmm7@gmail.com |
+| 📍 **Location** | Islamabad, Pakistan |
+| 💼 **Role** | Software Engineer @ **Exaverse** |
+| 🎓 **Education** | BSc Computer Science @ **NUML** *(Expected June 2028)* |
+| 🔭 **Stack** | Flutter · ASP.NET Core · Firebase · Python · LLMs |
+| 📬 **Contact** | maazmalikmm7@gmail.com |
 
 ---
 
@@ -69,54 +69,70 @@ LLM tool-calling (LLaMA, Qwen, OpenAI) and computer vision pipelines (YOLOv8) po
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Full Technology Stack
 
-**Mobile Development**
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+#### 💻 Languages
 
-**Backend & Web**
+<img src="https://skillicons.dev/icons?i=dart,cs,python,cpp,js,html,css&theme=dark&perline=8" />
+<br/>
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+---
 
-**AI / ML**
+#### 📱 Mobile Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,figma&theme=dark&perline=8" />
+<br/>
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Databases & Cloud**
+---
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🔗 Backend & Web
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,laravel,nodejs,express&theme=dark&perline=8" />
+<br/>
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-**Tools & Practices**
+#### 🤖 AI / ML
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow&theme=dark&perline=8" />
+<br/>
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibabadotcom&logoColor=white)
+
+---
+
+#### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=firebase,mysql,azure,aws,gcp&theme=dark&perline=8" />
+<br/>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Cloud Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+#### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark&perline=8" />
+<br/>
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC_Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-239120?style=flat-square&logo=csharp&logoColor=white)
+
+</div>
 
 ---
 
@@ -207,12 +223,21 @@ LLM tool-calling (LLaMA, Qwen, OpenAI) and computer vision pipelines (YOLOv8) po
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maazxo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazxo1&layout=compact&theme=tokyonight&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maazxo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&cache_seconds=1800" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazxo1&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&cache_seconds=1800&langs_count=8" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=maazxo1&theme=tokyonight&border_radius=12" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=maazxo1&theme=tokyonight&border_radius=12&hide_border=false&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=maazxo1&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -222,7 +247,7 @@ LLM tool-calling (LLaMA, Qwen, OpenAI) and computer vision pipelines (YOLOv8) po
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://m-porfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-3b82f6?style=for-the-badge)](https://m-porfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maaz-ahmed)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maazxo1)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazmalikmm7@gmail.com)
