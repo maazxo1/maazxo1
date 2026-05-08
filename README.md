@@ -26,18 +26,9 @@
 
 ## About Me
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                        Maaz Ahmed                           ║
-╠════════════════╦═════════════════════════════════════════════╣
-║ Role           ║  Software Engineer                         ║
-║ Education      ║  BSc Computer Science @ NUML (2024-2028)  ║
-║ Experience     ║  SE @ Exaverse  (June 2025 - Present)     ║
-║ Location       ║  Islamabad, Pakistan                       ║
-║ Building       ║  Flutter · ASP.NET Core · LLMs · CV       ║
-║ Goal           ║  Senior SE / AI Product Engineer           ║
-╚════════════════╩═════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/maazxo1/maazxo1/main/about_terminal.svg" width="90%" alt="About Maaz Ahmed" />
+</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maazxo1&theme=react-dark&hide_border=true&area=true&color=60a5fa&line=3b82f6&point=a78bfa&area_color=3b82f6" width="95%" />
