@@ -15,6 +15,8 @@
 &nbsp;
 <a href="https://m-porfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=flat-square&logo=vercel&logoColor=white" /></a>
 &nbsp;
+<a href="https://linkedin.com/in/maaz-ahmed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
 <a href="mailto:maazmalikmm7@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -22,17 +24,24 @@
 
 ---
 
-## About
+## About Me
 
-Results-driven **Software Engineer** with 3+ years of experience building cross-platform mobile apps, scalable backend systems, and AI-powered products. Currently at **Exaverse**, shipping Flutter apps and LLM-integrated features to production.
+```
+╔══════════════════════════════════════════════════════════════╗
+║                        Maaz Ahmed                           ║
+╠════════════════╦═════════════════════════════════════════════╣
+║ Role           ║  Software Engineer                         ║
+║ Education      ║  BSc Computer Science @ NUML (2024-2028)  ║
+║ Experience     ║  SE @ Exaverse  (June 2025 - Present)     ║
+║ Location       ║  Islamabad, Pakistan                       ║
+║ Building       ║  Flutter · ASP.NET Core · LLMs · CV       ║
+║ Goal           ║  Senior SE / AI Product Engineer           ║
+╚════════════════╩═════════════════════════════════════════════╝
+```
 
-| | |
-|---|---|
-| **Location** | Islamabad, Pakistan |
-| **Role** | Software Engineer @ **Exaverse** |
-| **Education** | BSc Computer Science @ **NUML** *(Expected June 2028)* |
-| **Stack** | Flutter · ASP.NET Core · Firebase · Python · LLMs |
-| **Contact** | maazmalikmm7@gmail.com |
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazxo1&theme=react-dark&hide_border=true&area=true&color=60a5fa&line=3b82f6&point=a78bfa&area_color=3b82f6" width="95%" />
+</div>
 
 ---
 
