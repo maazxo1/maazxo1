@@ -13,7 +13,7 @@
 &nbsp;
 <a href="https://github.com/maazxo1?tab=followers"><img src="https://img.shields.io/github/followers/maazxo1?style=flat-square&color=8b5cf6&label=Followers" /></a>
 &nbsp;
-<a href="https://m-porfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://maaz-ahmed-nu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=flat-square&logo=vercel&logoColor=white" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/maaz-ahmed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 &nbsp;
@@ -216,7 +216,7 @@
 &nbsp;
 <a href="mailto:maazmalikmm7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://m-porfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://maaz-ahmed-nu.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
